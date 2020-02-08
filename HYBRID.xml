@@ -6,7 +6,7 @@
              xsi:schemaLocation="http://maps.yandex.ru/schemas/ymaps/1.x/ymaps.xsd">
     <repr:Representation xmlns="http://maps.yandex.ru/representation/1.x">
         <repr:View>
-            <repr:mapType>HYBRID </repr:mapType>
+            <repr:mapType>HYBRID</repr:mapType>
         </repr:View>
     </repr:Representation>
 </ymaps:ymaps>
